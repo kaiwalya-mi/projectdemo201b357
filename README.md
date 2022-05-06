@@ -4,3 +4,5 @@ india   is a democracy
 america  is a democracy
 pakistan is not democracy
 pull changes
+
+merge conflict
