@@ -4,4 +4,4 @@ india   is a democracy
 america  is a democracy
 pakistan is not democracy
 
-
+bhutan too is not democracy
